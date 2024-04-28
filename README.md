@@ -1,16 +1,21 @@
 # calculator_app
 
-A new Flutter project.
+A basic Calculator app which can perform simple math calculations.
 
 ## Getting Started
 
-This project is a starting point for a Flutter application.
+Start by git cloning this app
 
-A few resources to get you started if this is your first Flutter project:
+> <code>git clone https://github.com/rsdecoder/calculator_app.git </code>
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+Install the necessary packages needed for the app
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+> <code>flutter pub get</code>
+
+Run the app by using the following command
+
+><code>flutter run lib/main.dart</code>
+
+#### Requirements: 
+>Android / iOS Simulator to run the app in.
+
